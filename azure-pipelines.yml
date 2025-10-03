@@ -18,4 +18,4 @@ steps:
     accuknoxEndpoint: '$(accuknox-enpoint)'
     accuknoxToken: '$(accuknox-token)'
     accuknoxLabel: '$(accuknox-label)'
-    inputSoftFail: false
+    inputSoftFail: true
